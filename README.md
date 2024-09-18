@@ -23,7 +23,30 @@ In today’s digital age, student portals play a crucial role in facilitating co
 
 ## `Screenshots`
 
+ <img src ="https://github.com/user-attachments/assets/9132d1ef-e02d-4005-b10a-c2bcf15de337" width=250px>
+ <img src ="https://github.com/user-attachments/assets/334f0cf8-0b46-424f-bad4-7282d5286f9b" width=250px>
+ <img src ="https://github.com/user-attachments/assets/4be58c4f-20ea-411f-be05-c14d1fc3e39f" width=250px>
+ <img src ="https://github.com/user-attachments/assets/5de1c8b2-3342-4872-ad87-5c3b5a92988a" width=250px>
+ <img src ="https://github.com/user-attachments/assets/f8cc42a2-066a-4d92-99ea-70570ed08d36" width=250px>
+ <img src ="https://github.com/user-attachments/assets/ce1c5361-48f8-4c4a-aafb-8c2446d750f2" width=250px>
+      
+
+
+
+
+
+
+
+
+
+
 ## `Video`
+
+
+
+
+
+
 
 <br><br>
 ## `Installation`
